@@ -33,7 +33,7 @@
             <p>Dariusz Grabowski 32 POL</p>
             <p>Leanid Anatska 56 BLR</p>
             <p>Panagiotis Kaldis 50 HELLAS</p>
-            <p>Petri Perttilä 53 FIN</p>
+            <!--<p>Petri Perttilä 53 FIN</p>-->
             <br>
          </td>
       </tr>
@@ -140,6 +140,8 @@
             <p>Dimitrios Kouvalis 44 HELLAS</p>
             <p>Dimitrios Koukoularis 40 HELLAS</p>
             <p>Christos Kanellos 65 HELLAS</p>
+            <p>Ionel Costinel Navligu 48 ROM</p>
+            <p>Panagiotis Kollias 59 HELLAS</p>
             <br>
          </td>
       </tr>
